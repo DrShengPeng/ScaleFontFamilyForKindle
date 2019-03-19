@@ -11,4 +11,4 @@ Say, there is 4 fonts of the same typeface in the same folder, all reasonaly nam
 [CMD] myfont-roman.otf
 </code>
 </pre>
-This will scale the roman font, as well as the related italic and bolt variants, using the same factor which is determined by the ratio between the x-height and its target value.
+This will scale the roman font, as well as the related italic and bold variants, using the same factor which is determined by the ratio between the x-height and its target value.
